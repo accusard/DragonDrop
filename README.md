@@ -6,7 +6,7 @@ Dragon Drop is a platformer and puzzle game developed with the Marmalade SDK. Th
 ### Features
 - Drag-and-drop mechanics with physics integration.
 - Mobile-friendly design with touch screen interactions.
-- XML-based level progression.
+- XML-based level customizations.
 
 ### Technologies
 - C++
